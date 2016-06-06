@@ -20,3 +20,5 @@ ami_vis_paths = [os.path.abspath(os.path.join(_test_data_dir, bname))
 ami_cleaned_img = os.path.abspath(os.path.join(_test_data_dir,
                                                _ami_cleaned_img_basename))
 
+vla_antennalist =  os.path.abspath(os.path.join(_test_data_dir,
+                                                "vla.c.cfg"))
